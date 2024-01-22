@@ -82,7 +82,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 # Links
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/zenupdatess')
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/zenupdatess')
-NSF_LINK = environ.get('FILMS_LINK', 'https://t.me/+dgQA9n5xS1QzZmZl')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/+dgQA9n5xS1QzZmZl')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/zenupdatess")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/zenupdatess")
 
